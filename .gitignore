@@ -1,0 +1,52 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.lib
+*.dll
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*.bak
+*.sav
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.pdb
+*.layout
+*.depend
+*.cbp
+*.workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# GCC temporary files
+*.d
+*.gcno
+*.gcda
